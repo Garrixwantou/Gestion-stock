@@ -1,0 +1,20 @@
+[
+    {
+        "titre": "Gestionnaire de Stock",
+        "description": "Application de bureau pour la gestion d'inventaire avec rapports PDF.",
+        "technos": ["Python", "Tkinter", "SQLite"],
+        "lien": "https://github.com/ton-profil/stock-manager"
+    },
+    {
+        "titre": "API E-commerce",
+        "description": "Backend complet avec authentification JWT et gestion de panier.",
+        "technos": ["Node.js", "Express", "MongoDB"],
+        "lien": "https://github.com/ton-profil/shop-api"
+    },
+    {
+        "titre": "Plateforme Scolaire",
+        "description": "Système de gestion de notes et d'absences pour étudiants.",
+        "technos": ["PHP", "MySQL", "Bootstrap"],
+        "lien": "https://github.com/ton-profil/school-app"
+    }
+]
